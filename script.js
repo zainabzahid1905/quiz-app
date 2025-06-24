@@ -7,16 +7,16 @@ document.getElementById("quizForm").addEventListener("submit", function (e) {
   let score = 0;
 
   let correctAnswers = {
-    q1: "maroon",
+    q1: "black",
     q2: "burger",
     q3: "invisibility",
-    q4: "kuch ni",
+    q4: "ok",
     q5: "baku",
     q6: "black",
     q7: "insta",
     q8: "ambivert",
     q9: "money",
-    q10: "fatima"
+    q10: "me"
   };
 
   let userAnswers = {};
